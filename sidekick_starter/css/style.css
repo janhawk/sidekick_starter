@@ -4,7 +4,8 @@ video{
     margin-bottom: -6px;
 }
 img{
-    width:100%;
+    width:730;
+    height:365;
 }
 .ren{
     margin-top: -450px;
@@ -73,4 +74,13 @@ body{
     margin-left: auto;
     margin-right: auto;
    
+}
+.how-to {
+    margin-left:-100px;
+}
+.btn{
+    margin-left:-100px;
+}
+.left{
+    display:block;
 }
