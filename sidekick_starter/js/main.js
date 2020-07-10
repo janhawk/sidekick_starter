@@ -52,3 +52,30 @@ $(document).ready(function() {
     });
   
   });
+
+  $(function(){
+
+    $('.left').animate({ 
+      "left": "50px"
+      
+     
+    }, 1000);
+  });
+
+ $(function(){
+
+  $('.right').animate({ 
+    "right": "50px"
+    
+   
+}, 1000);
+});
+
+$(".")(function(){
+
+  $('.right-one').de({ 
+    "right": "50px"
+    
+   
+}, 1000);
+});
